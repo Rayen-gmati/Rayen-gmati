@@ -1,5 +1,5 @@
 # 🥸About Me:
-<br>🚀 I'm currently working on engineering projects focused on software development<br>👥 I'm looking to collaborate on innovative tech projects and open-source contributions<br>🤝 I'm looking for help with advanced software architecture and system design<br>🌱 I'm currently learning software engineering principles, algorithms & modern development frameworks<br>💬 Ask me about computer science, programming & technology<br>⚡ Fun fact: I'm passionate about building solutions that make a real impact
+<br>🚀 I'm currently working on engineering projects focused on software development<br>👥 I'm looking to collaborate on innovative tech projects and open-source contributions<br>🤝 I'm looking for help with advanced software architecture and system design<br>🌱 I'm currently learning software engineering principles, algorithms & modern development frameworks<br>💬 Ask me about computer science, programming & technology<br>⚡ Fun fact: I'm passionate about building solutions that make a real impact  
 
 
 ## 🌐 Socials:
